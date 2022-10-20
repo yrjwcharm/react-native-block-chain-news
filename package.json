@@ -35,7 +35,7 @@
     "react-native-picker": "^4.3.7",
     "react-native-progress": "^3.6.0",
     "react-native-qrcode": "^0.2.7",
-    "react-native-reanimated": "^1.1.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-reconnecting-websocket": "^1.0.1",
     "react-native-render-html": "^4.1.2",
     "react-native-restart": "0.0.13",
